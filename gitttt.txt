@@ -2,3 +2,4 @@ hello sneha
 commit from github
 
 this is the commit 1st which i want
+this commit from git hub
